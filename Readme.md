@@ -10,7 +10,7 @@
 * Copiar los archivos fuentes del proyecto a la carpeta /www
 * Reemplazar el archivo .sql de base de datos ./init_db.sql con el archivo sql de una copia ya instalada y configurada de la aplicación
 * Configurar el script DOCKERFILE con los valores de inicialización de la base de datos, nombre de usuario, contraseña, nombre base de datos..
-## Configuraciones opcionales
+###  Configuraciones opcionales
 
 * NGINX: Configurar el archivo docker/nginx/default.conf a las necesidades del server
 * PHP: Configurar el archivo docker/php/php.ini
