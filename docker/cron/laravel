@@ -1,0 +1,2 @@
+# /etc/cron.d/laravel: crontab fragment for Laravel
+* * * * * www-data cd /app/api && php artisan schedule:run >> /dev/null 2>&1
